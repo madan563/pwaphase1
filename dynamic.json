@@ -1,0 +1,46 @@
+{
+"basics":
+{
+
+"img":"images/clouds.jpg",
+"name":"Kalyan",
+"email":"kalyanc1243@gmail.com"
+},
+"career":{
+  "info":" i want to seek a position where i can explore my taughts and skills for the benefits of the organisation"
+},
+"education":[
+  {
+    "sno":"1",
+    "degree":"b.tech",
+    "institute":"dgc",
+    "per":"2018"
+  },
+  {
+    "sno":"2",
+    "degree":"intermediate",
+    "institute":"dgc",
+    "per":"2014"
+  },
+  {
+    "sno":"3",
+    "degree":"s.s.c",
+    "institute":"dgc",
+    "per":"2012"
+  }
+],
+"skills":[
+  {
+    "info":"c"
+  },
+  {
+    "info":"c++"
+  },
+  {
+    "info":"java"
+  }
+
+]
+
+
+}
